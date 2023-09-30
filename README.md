@@ -16,7 +16,7 @@
 [tg-badge]: https://img.shields.io/endpoint?color=neon&logo=telegram&label=chat&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fdojoengine
 [tg-url]: https://t.me/dojoengine
 
-# Dojo Bare Bones: The minimal Dojo Autonomous World
+# Dojo Minimal: The minimal Dojo Autonomous World
 
 ---
 
